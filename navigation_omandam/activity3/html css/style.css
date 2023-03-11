@@ -1,0 +1,60 @@
+.right {
+  background-color:white;
+  width:290px;
+  height:50px;
+  box-shadow: 5px 5px gray;
+  padding:30px;
+  margin: 21px;
+	padding-right:45px;
+   border-radius: 10px;
+
+}
+
+.child {
+  width:730px;
+  height:90px;
+  background-color:black;
+  position: absolute;
+  border-radius: 1px;
+  top: 40%;
+  left:20%;
+  margin: -25px 0 0 -25px;
+  border-radius: 5px;
+ 	
+}
+.left{
+
+ width:270px;
+  height:110px;
+  background-color:white;
+  position: absolute;
+  border-radius: 5px;
+  top: 50%;
+  left:57%;
+  
+  margin: -25px 0 0 25px;
+  box-shadow: 1px 6px #888888;
+}
+
+.blue{
+ width: 190px;
+  height:150px;
+  background-color:blue;
+  position: absolute;
+  border-radius: 1px;
+  top: 40%;
+ left: 40%;
+  
+  margin: -25px 0 0 -25px;
+  border-radius: 5px;
+}  
+.h4{
+ text-align: center;
+ margin: 40px;
+ padding-bottom: 10px;
+ color: white;
+}
+
+
+ 
+
